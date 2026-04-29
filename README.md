@@ -1,4 +1,4 @@
-# 🇲🇲 Myanmar Pyidaungsu Font Typing Software
+# Myanmar Pyidaungsu Font Typing Software
 
 A simple and efficient typing software designed for **Myanmar Unicode (Pyidaungsu)** input across multiple platforms. This tool helps users easily type, read, and work with Myanmar text on **Windows, macOS, and Linux**.
 
